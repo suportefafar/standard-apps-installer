@@ -1,0 +1,10 @@
+{
+    "packages": [
+        "libreoffice-fresh",
+        "googlechrome",
+        "firefoxesr",
+        "7zip",
+        "adobereader",
+        "jre8"
+    ]
+}
